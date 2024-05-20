@@ -1,6 +1,7 @@
-class Calc {
+﻿class Calc {
 public: 
 	int getSum(int a, int b) {
-		return a + b; 
+		int result = a + b; 
+		return result; 
 	}
 };
